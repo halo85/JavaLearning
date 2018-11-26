@@ -12,7 +12,7 @@ public class Automobilis {
         System.out.print("Iveskite automobilio greiti: ");
         int grt = keyboard.nextInt();
 
-        double ailg = ilg / 1000;
+        double ailg = (ilg / 1000);
 
         double laik = (grt * ailg);
 
