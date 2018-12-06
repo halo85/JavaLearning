@@ -1,3 +1,13 @@
+/*
+ * Programa, apskaičiuoja kiek reikės plytų, ir kiek kainuos plytos.
+ * Pvz:
+ * Sienos ilgis 4 m. Sienos aukštis 3 m. Plytos kaina 50 ct.
+ * Rezultatas:
+ * Plytų kiekis: 600
+ * Plytos kainuos 300.00 Lt
+ */
+
+
 package lt.bt.java.demo.extra;
 
 import java.text.DecimalFormat;
